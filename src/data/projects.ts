@@ -318,7 +318,7 @@ export const projects: Project[] = [
         'Designed the money-operations and financial-crime compliance module around a provider-agnostic adapter pattern, with providers switched through environment toggles rather than code changes',
         'Built the project-publication state machine: role-based transitions, conditional field locking and automated admin review',
         'Fixed pagination drift in investor lists across 100+ active projects by running the count and data aggregation pipelines in parallel with Promise.all',
-        'Contributed to the 50+ production REST APIs delivered across the company’s client products',
+        'Built the REST APIs behind project lifecycle, onboarding and KYC/AML compliance. Opalus is one of the 4+ real-world products and client projects I delivered at Brain Technosys',
       ],
       stack: [
         { group: 'Backend', items: ['Node.js', 'Express', 'REST APIs', 'State machines', 'RBAC'] },

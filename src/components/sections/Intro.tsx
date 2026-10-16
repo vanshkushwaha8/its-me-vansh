@@ -25,6 +25,7 @@ export function Intro() {
               <dd>
                 <span className="font-display block text-[clamp(3.5rem,8vw,7rem)]">{f.value}</span>
                 <span className="mt-3 block max-w-[18ch] text-sm leading-snug text-mute-light">{f.label}</span>
+                {'description' in f && <span className="mt-1 block max-w-[18ch] text-sm leading-snug text-mute-light">{f.description}</span>}
               </dd>
             </div>
           ))}

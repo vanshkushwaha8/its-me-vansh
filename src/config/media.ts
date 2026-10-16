@@ -78,7 +78,7 @@ export const media = {
     },
     buildMaterial: {
       brand: {
-        src: '/projects/building-material-marketplace/brand-cover.png',
+        src: '/projects/building-material-marketplace/brand-cover.webp',
         alt: 'Build Material brand mark with the line “Buy New. Buy Surplus. Buy Nearby.”',
         width: 1200,
         height: 630,

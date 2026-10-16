@@ -25,7 +25,7 @@ export const profile = {
   /** Résumé-verified numbers only. */
   facts: [
     { value: '1.5+', label: 'Years building production systems' },
-    { value: '50+', label: 'Production REST APIs shipped' },
+    { value: '4+', label: 'Products Delivered', description: 'Real-world products and client projects' },
     { value: '4', label: 'Client products for teams in Europe & Australia' },
     { value: '1', label: 'Independent product live in production' },
   ],
